@@ -62,7 +62,7 @@ def main():
     
     if player == "S" and computer == "P":
       print("You win!")
-      win = win + 1 
+      wins = wins + 1 
 
     if player == "S" and computer == "S":
       print("Tie")
